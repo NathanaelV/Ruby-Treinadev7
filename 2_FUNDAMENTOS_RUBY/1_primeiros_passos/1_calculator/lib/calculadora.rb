@@ -14,4 +14,3 @@ def divisao(dividendo, divisor)
     return "Opa! Zero como divisor" if divisor == 0
     dividendo / divisor
 end
-
